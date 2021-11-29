@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Use In this project we will be leveraging the power of Machine learning in predicting the price of a car without the intervention of an agent or human. This model trained will predict the price of cars based on certain factors such as the goodwill of the brand of the car, the features of the car, horsepower, mileage and many more.
 
 <img src="images/demo.gif?raw=true"/>
 
